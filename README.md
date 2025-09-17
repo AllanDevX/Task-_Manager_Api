@@ -1,6 +1,3 @@
----
-
-```markdown
 # 📝 Task Manager API - Flask CRUD Application
 
 Este projeto é uma API RESTful desenvolvida com o framework Flask, que realiza operações de CRUD (Create, Read, Update, Delete) sobre uma estrutura de tarefas. Ideal para fins educacionais, testes com Postman e integração com frontends simples.
@@ -64,8 +61,8 @@ pytest teste.py
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/task-manager-api.git
-   cd task-manager-api
+   git clone https://github.com/AllanDevX/Task_Manager_Api
+   cd Task_Manager_Api
    ```
 
 2. Crie e ative o ambiente virtual:
@@ -120,7 +117,7 @@ Você pode importar os endpoints manualmente no Postman e testar cada rota com o
 
 ## 📣 Conecte-se comigo
 
-Se você gostou do projeto ou quer trocar ideias sobre desenvolvimento backend com Python, me chama no [LinkedIn](https://www.linkedin.com/in/seu-usuario/)!
+Se você gostou do projeto ou quer trocar ideias sobre desenvolvimento backend com Python, me chama no [LinkedIn](https://www.linkedin.com/in/allan-richard-37425a169/)!
 
 ---
 
