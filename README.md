@@ -120,5 +120,3 @@ Você pode importar os endpoints manualmente no Postman e testar cada rota com o
 Se você gostou do projeto ou quer trocar ideias sobre desenvolvimento backend com Python, me chama no [LinkedIn](https://www.linkedin.com/in/allan-richard-37425a169/)!
 
 ---
-
-```
