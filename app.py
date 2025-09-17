@@ -73,6 +73,8 @@ def delete_task(id):
 
     tasks.remove(task)
     return jsonify({"message": "Tarefa deletada com sucesso"})
+
+
 # Usando if para rodar o programa
 if __name__ == "__main__":
     # app.run ativa o modo de depuração
