@@ -1,6 +1,6 @@
 # 📝 Task Manager API - Flask CRUD Application
 
-Este projeto é uma API RESTful desenvolvida com o framework Flask, que realiza operações de CRUD (Create, Read, Update, Delete) sobre uma estrutura de tarefas. Ideal para fins educacionais, testes com Postman e integração com frontends simples.
+Este projeto é uma API RESTful desenvolvida com o framework Flask, que realiza operações de CRUD (Create, Read, Update, Delete) sobre uma estrutura de tarefas. Ideal para fins educacionais, testes com Postman.
 
 ---
 
